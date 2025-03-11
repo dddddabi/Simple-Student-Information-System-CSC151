@@ -1,123 +1,128 @@
-First Name,Last Name,ID Number,Age,Year Level,Gender,College,College Code,Program
-Juan,Cruz,2023-3001,18,1st year,Male,CSM,CSM,BSMATH
-Maria,Santos,2022-3002,19,1st year,Female,CSM,BSMB,BS Marine Biology
-Jose,Ramos,2021-3003,20,2nd year,Male,CSM,BSCHEM,BS Chemistry
-Ana,Reyes,2020-3004,21,3rd year,Female,CSM,BSMATH,BS Mathematics
-Pedro,Gonzales,2019-3005,22,4th year,Male,CSM,BSPHY,BS Physics
-Luz,Bautista,2018-3006,23,5+ years,Female,CSM,BSMB,BS Microbiology
-Miguel,Domingo,2023-3007,18,1st year,Male,CSM,BSBIO,BS Biology
-Rosa,Mendoza,2022-3008,19,1st year,Female,CSM,BSPHY,BS Physics
-Carlos,Navarro,2021-3009,20,2nd year,Male,CSM,BSCHEM,BS Chemistry
-Isabel,Aguilar,2020-3010,21,3rd year,Female,CSM,BSMB,BS Marine Biology
-Daniel,Villanueva,2019-3011,22,4th year,Male,CSM,BSMATH,BS Mathematics
-Teresa,Salazar,2018-3012,23,5+ years,Female,CSM,BSBIO,BS Biology
-Andres,Cabrera,2023-3013,18,1st year,Male,CSM,BSMB,BS Microbiology
-Elena,Velasquez,2022-3014,19,1st year,Female,CSM,BSPHY,BS Physics
-Fernando,Delos Santos,2021-3015,20,2nd year,Male,CSM,BSMATH,BS Mathematics
-Carmen,Lazaro,2020-3016,21,3rd year,Female,CSM,BSCHEM,BS Chemistry
-Rafael,Francisco,2019-3017,22,4th year,Male,CSM,BSBIO,BS Biology
-Julia,Mercado,2018-3018,23,5+ years,Female,CSM,BSMB,BS Marine Biology
-Gabriel,Soriano,2023-3019,18,1st year,Male,CSM,BSPHY,BS Physics
-Sofia,Torres,2022-3020,19,1st year,Female,CSM,BSBIO,BS Biology
-Enrique,Fernandez,2021-3021,20,2nd year,Male,COE,BSCE,BS Civil Engineering
-Beatriz,Lim,2020-3022,21,3rd year,Female,COE,BSPetE,BS Petroleum Engineering
-Hector,Gutierrez,2019-3023,22,4th year,Male,COE,BSME,BS Mechanical Engineering
-Amelia,Rivera,2018-3024,23,5+ years,Female,COE,BSECE,BS Electronics Engineering
-Tomas,Marquez,2023-3025,18,1st year,Male,COE,BSCpE,BS Computer Engineering
-Regina,Padilla,2022-3026,19,1st year,Female,COE,BSCE,BS Civil Engineering
-Emilio,Flores,2021-3027,20,2nd year,Male,COE,BSPetE,BS Petroleum Engineering
-Victoria,Yu,2020-3028,21,3rd year,Female,COE,BSME,BS Mechanical Engineering
-Gregorio,Perez,2019-3029,22,4th year,Male,COE,BSECE,BS Electronics Engineering
-Dolores,Borja,2018-3030,23,5+ years,Female,COE,BSCpE,BS Computer Engineering
-Sergio,Lopez,2023-3031,18,1st year,Male,COE,BSCE,BS Civil Engineering
-Cecilia,Santiago,2022-3032,19,1st year,Female,COE,BSPetE,BS Petroleum Engineering
-Felipe,Molina,2021-3033,20,2nd year,Male,COE,BSME,BS Mechanical Engineering
-Aurora,Vega,2020-3034,21,3rd year,Female,COE,BSECE,BS Electronics Engineering
-Manuel,Quezon,2019-3035,22,4th year,Male,COE,BSCpE,BS Computer Engineering
-Estrella,Ramos,2018-3036,23,5+ years,Female,COE,BSCE,BS Civil Engineering
-Benito,Delgado,2023-3037,18,1st year,Male,COE,BSPetE,BS Petroleum Engineering
-Leticia,Morales,2022-3038,19,1st year,Female,COE,BSME,BS Mechanical Engineering
-Crisostomo,Zamora,2021-3039,20,2nd year,Male,COE,BSECE,BS Electronics Engineering
-Conchita,Panganiban,2020-3040,21,3rd year,Female,COE,BSCpE,BS Computer Engineering
-Ricardo,Solis,2023-3041,18,1st year,Male,CASS,BAEL,BA English Literature
-Veronica,Luna,2022-3042,19,1st year,Female,CASS,BSPsy,BS Psychology
-Leonardo,De Jesus,2021-3043,20,2nd year,Male,CASS,BAFIL,BA Filipino Literature
-Maricel,Buendia,2020-3044,21,3rd year,Female,CASS,BAHIST,BS History
-Antonio,Salvador,2019-3045,22,4th year,Male,CASS,BAEL,BA English Literature
-Rosario,Dela Cruz,2018-3046,23,5+ years,Female,CASS,BSPsy,BS Psychology
-Isidro,Villamor,2023-3047,18,1st year,Male,CASS,BAFIL,BA Filipino Literature
-Celestina,Pascual,2022-3048,19,1st year,Female,CASS,BAHIST,BS History
-Domingo,Yap,2021-3049,20,2nd year,Male,CASS,BAEL,BA English Literature
-Angela,Del Rosario,2020-3050,21,3rd year,Female,CASS,BSPsy,BS Psychology
-Vicente,Suarez,2019-3051,22,4th year,Male,CASS,BAFIL,BA Filipino Literature
-Feliciana,Mendoza,2018-3052,23,5+ years,Female,CASS,BAHIST,BS History
-Rogelio,Medina,2023-3053,18,1st year,Male,CASS,BAEL,BA English Literature
-Carmela,Bautista,2022-3054,19,1st year,Female,CASS,BSPsy,BS Psychology
-Gilberto,Nolasco,2021-3055,20,2nd year,Male,CASS,BAFIL,BA Filipino Literature
-Perla,Escobar,2020-3056,21,3rd year,Female,CASS,BAHIST,BS History
-Fausto,Jimenez,2019-3057,22,4th year,Male,CASS,BAEL,BA English Literature
-Dolores,Castro,2018-3058,23,5+ years,Female,CASS,BSPsy,BS Psychology
-Mariano,Tan,2023-3059,18,1st year,Male,CASS,BAFIL,BA Filipino Literature
-Clarita,Roxas,2022-3060,19,1st year,Female,CASS,BAHIST,BS History
-Anna,Dela Cruz,2022-1123,19,1st Year,Female,CCS,BSIT,BS Information Technology
-Carlo,Lopez,2018-2345,23,4th Year,Male,CCS,BSIS,BS Information Systems
-Liza,Martinez,2020-3345,20,1st Year,Female,CCS,BSIT,BS Information Technology
-Kevin,Ortega,2021-5567,22,2nd Year,Male,CCS,BSCS,BS Computer Science
-Mark,Dizon,2019-6678,23,3rd Year,Male,CCS,BSCS,BS Computer Science
-Teresa,Garcia,2018-7789,24,4th Year,Female,CSM,BSMB,BS Microbiology
-Luis,Cruz,2022-8890,18,1st Year,Male,CCS,BSIT,BS Information Technology
-Anne,Castillo,2020-9901,20,1st Year,Female,CCS,BSIS,BS Information Systems
-Rico,Velasco,2021-1012,21,2nd Year,Male,CSM,BSBIO,BS Biology
-Bianca,De Leon,2019-1213,22,3rd Year,Female,CCS,BSIT,BS Information Technology
-Ramon,Soriano,2018-1314,23,4th Year,Male,CCS,BSIT,BS Information Technology
-Pia,Valdez,2022-1415,19,1st Year,Female,CCS,BSIS,BS Information Systems
-John,Evangelista,2020-1516,20,1st Year,Male,CCS,BSIT,BS Information Technology
-Karen,Santiago,2021-1617,21,2nd Year,Female,CCS,BSCS,BS Computer Science
-Miguel,Aquino,2019-1718,22,3rd Year,Male,CSM,BSCHEM,BS Chemistry
-Carla,Santana,2018-1819,23,4th Year,Female,CCS,BSIS,BS Information Systems
-Roberto,Padilla,2022-1920,18,1st Year,Male,CCS,BSIT,BS Information Technology
-Alice,Johnson,2005-1001,30,5+ Years,Female,CCS,BSIT,BS Information Technology
-Bob,Smith,2010-1002,22,5+ Years,Male,CCS,BSIS,BS Information Systems
-Charlie,Davis,2012-1003,19,5+ Years,Male,CCS,BSCS,BS Computer Science
-Diana,Evans,2013-1004,21,5+ Years,Female,CCS,BSIT,BS Information Technology
-Ethan,Ford,2014-1005,23,5+ Years,Male,CSM,BSPHY,BS Physics
-Allen,Kwisel,2002-2002,19,5+ Years,Male,CCS,BSCS,BS Computer Science
-Dan,Lubiranis,2012-1111,23,5+ Years,Male,CCS,BSIT,BS Information Technology
-Xenon,Plaskett,2023-2001,18,1st Year,Male,CCS,BSCS,BS Computer Science
-Zyphra,Nocturne,2023-2002,19,1st Year,Female,CCS,BSIT,BS Information Technology
-Vex,Quillan,2022-2003,20,2nd Year,Male,COE,,BS Mechanical Engineering
-Lyric,Nebula,2021-2004,21,3rd Year,Female,CCS,BSCS,BS Computer Science
-Orion,Starweaver,2020-2005,22,4th Year,Male,CCS,BSIS,BS Information Systems
-Mira,Solstice,2023-2006,18,1st Year,Female,CCS,BSIT,BS Information Technology
-Ragnar,Thorne,2021-2007,21,2nd Year,Male,CCS,BSCS,BS Computer Science
-Cassia,Evermoon,2020-2008,20,1st Year,Female,CCS,BSIS,BS Information Systems
-Zephyr,Windsong,2022-2009,19,1st Year,Male,CCS,BSIT,BS Information Technology
-Echo,Darkmere,2019-2010,22,3rd Year,Female,CCS,BSIT,BS Information Technology
-Talon,Draven,2018-2011,23,4th Year,Male,CSM,BSMATH,BS Mathematics
-Selene,Frostbane,2023-2012,18,1st Year,Female,CCS,BSCS,BS Computer Science
-Axel,Stormrider,2020-2013,20,2nd Year,Male,CCS,BSIS,BS Information Systems
-Vera,Nyx,2021-2014,21,3rd Year,Female,CCS,BSIT,BS Information Technology
-Ezekiel,Shadowbrook,2019-2015,22,3rd Year,Male,CCS,BSCS,BS Computer Science
-Kael,Ironwood,2022-2017,19,1st Year,Male,CCS,BSIS,BS Information Systems
-Rowan,Obsidian,2020-2018,20,2nd Year,Female,CCS,BSCS,BS Computer Science
-Laziel,Fern,2021-2019,21,3rd Year,Male,CSM,BSPHY,BS Physics
-Aurora,Hexley,2022-2020,19,1st Year,Female,CCS,BSIT,BS Information Technology
-Dorian,Stormvale,2023-2021,18,1st Year,Male,CCS,BSIS,BS Information Systems
-Isla,Veridian,2022-2022,19,1st Year,Female,COE,BSCE,BS Civil Engineering
-Elliot,Crimson,2020-2023,20,2nd Year,Male,COE,BSME,BS Mechanical Engineering
-Julian,Ember,2019-2024,21,3rd Year,Male,CASS,BAEL,BA English Literature
-Freya,Nightshade,2018-2025,22,4th Year,Female,CASS,BSPsy,BS Psychology
-Adrian,Sable,2023-2026,18,1st Year,Male,COE,BSCE,BS Computer Engineering
-Ivy,Stormbourne,2022-2027,19,1st Year,Female,CASS,BAHIST,BS History
-Nathan,Silverwood,2021-2028,20,2nd Year,Male,COE,BSPetE,BS Petroleum Engineering
-Sienna,Duskwood,2019-2029,21,3rd Year,Female,CASS,BAFIL,BA Filipino Literature
-Callum,Graves,2018-2030,22,4th Year,Male,COE,BSECE,BS Electronics Engineering
-Luna,Moonstone,2023-2031,18,1st Year,Female,CSM,BSMB,BS Marine Biology
-Victor,Onyx,2022-2032,19,1st Year,Male,CASS,BAEL,BA English Literature
-Hazel,Frostt,2021-2033,20,2nd Year,Female,CSM,BSPHYS,BS Physics
-Felix,Ravenshadow,2020-2034,21,3rd Year,Male,COE,BSCE,BS Civil Engineering
-Mariana,Solace,2019-2035,22,4th Year,Female,CSM,BSMarB,BS Marine Biology
-Dre,Ibesate,2023-1234,20,2nd Year,Female,CSM,BSBio,BS Biology
-Thorfin,Vinland,2024-4357,35,1st Year,Male,CSM,BSCHEM,BS Chemistry
-Maria ,Rentuaya,2023-0024,20,2nd Year,Female,CSM,BSMicB,BS Microbiology
-Samuel Jr.,Distor,2023-0000,20,2nd Year,Male,CSM,BSMicB,BS Microbiology
+First Name,Last Name,ID Number,Age,Year Level,Gender,College,College Code,Program,Program Code
+Juan,Cruz,2023-3001,18,1st year,Male,College of Science and Mathematics,CSM,BS Microbiology,BSMicB
+Maria,Santos,2022-3002,19,1st year,Female,College of Science and Mathematics,CSM,BS Marine Biology,BSMarB
+Jose,Ramos,2021-3003,20,2nd year,Male,College of Science and Mathematics,CSM,BS Mathematics,BSM
+Ana,Reyes,2020-3004,21,3rd year,Female,College of Science and Mathematics,CSM,BS Chemistry,BSChem
+Pedro,Gonzales,2019-3005,22,4th year,Male,College of Science and Mathematics,CSM,BS Mathematics,BSM
+Luz,Bautista,2018-3006,23,5+ years,Female,College of Science and Mathematics,CSM,BS Microbiology,BSMicB
+Miguel,Domingo,2023-3007,18,1st year,Male,College of Science and Mathematics,CSM,BS Marine Biology,BSMarB
+Rosa,Mendoza,2022-3008,19,1st year,Female,College of Science and Mathematics,CSM,BS Chemistry,BSChem
+Carlos,Navarro,2021-3009,20,2nd year,Male,College of Science and Mathematics,CSM,BS Physics,BSPhy
+Isabel,Aguilar,2020-3010,21,3rd year,Female,College of Science and Mathematics,CSM,BS Marine Biology,BSMarB
+Daniel,Villanueva,2019-3011,22,4th year,Male,College of Science and Mathematics,CSM,BS Mathematics,BSM
+Teresa,Salazar,2018-3012,23,5+ years,Female,College of Science and Mathematics,CSM,BS Marine Biology,BSMarB
+Andres,Cabrera,2023-3013,18,1st year,Male,College of Science and Mathematics,CSM,BS Microbiology,BSMB
+Elena,Velasquez,2022-3014,19,1st year,Female,College of Science and Mathematics,CSM,BS Physics,BSPhy
+Fernando,Delos,2021-3015,20,2nd year,Male,College of Science and Mathematics,CSM,BS Mathematics,BSM
+Carmen,Lazaro,2020-3016,21,3rd year,Female,College of Science and Mathematics,CSM,BS Chemistry,BSChem
+Rafael,Francisco,2019-3017,22,4th year,Male,College of Science and Mathematics,CSM,BS Biology,BSBio
+Julia,Mercado,2018-3018,23,5+ years,Female,College of Science and Mathematics,CSM,BS Marine Biology,BSMarB
+Gabriel,Soriano,2023-3019,18,1st year,Male,College of Science and Mathematics,CSM,BS Physics,BSPhy
+Sofia,Torres,2022-3020,19,1st year,Female,College of Science and Mathematics,CSM,BS Biology,BSBio
+Enrique,Fernandez,2021-3021,20,2nd year,Male,College of Engineering,COE,BS Civil Engineering,BSCE
+Beatriz,Lim,2020-3022,21,3rd year,Female,College of Engineering,COE,BS Petroleum Engineering,BSPetE
+Hector,Gutierrez,2019-3023,22,4th year,Male,College of Engineering,COE,BS Mechanical Engineering,BSME
+Amelia,Rivera,2018-3024,23,5+ years,Female,College of Engineering,COE,BS Electronics Engineering,BSECE
+Tomas,Marquez,2023-3025,18,1st year,Male,College of Engineering,COE,BS Computer Engineering,BSCpE
+Regina,Padilla,2022-3026,19,1st year,Female,College of Engineering,COE,BS Civil Engineering,BSCE
+Emilio,Flores,2021-3027,20,2nd year,Male,College of Engineering,COE,BS Petroleum Engineering,BSPetE
+Victoria,Yu,2020-3028,21,3rd year,Female,College of Engineering,COE,BS Mechanical Engineering,BSME
+Gregorio,Perez,2019-3029,22,4th year,Male,College of Engineering,COE,BS Electronics Engineering,BSECE
+Dolores,Borja,2018-3030,23,5+ years,Female,College of Engineering,COE,BS Computer Engineering,BSCpE
+Sergio,Lopez,2023-3031,18,1st year,Male,College of Engineering,COE,BS Civil Engineering,BSCE
+Cecilia,Santiago,2022-3032,19,1st year,Female,College of Engineering,COE,BS Petroleum Engineering,BSPetE
+Felipe,Molina,2021-3033,20,2nd year,Male,College of Engineering,COE,BS Mechanical Engineering,BSME
+Aurora,Vega,2020-3034,21,3rd year,Female,College of Engineering,COE,BS Electronics Engineering,BSECE
+Manuel,Quezon,2019-3035,22,4th year,Male,College of Engineering,COE,BS Computer Engineering,BSCpE
+Estrella,Ramos,2018-3036,23,5+ years,Female,College of Engineering,COE,BS Civil Engineering,BSCE
+Benito,Delgado,2023-3037,18,1st year,Male,College of Engineering,COE,BS Petroleum Engineering,BSPetE
+Leticia,Morales,2022-3038,19,1st year,Female,College of Engineering,COE,BS Mechanical Engineering,BSME
+Crisostomo,Zamora,2021-3039,20,2nd year,Male,College of Engineering,COE,BS Electronics Engineering,BSECE
+Conchita,Panganiban,2020-3040,21,3rd year,Female,College of Engineering,COE,BS Computer Engineering,BSCpE
+Ricardo,Solis,2023-3041,18,1st year,Male,College of Arts and Social Sciences,CASS,BA English Literature,BAEL
+Veronica,Luna,2022-3042,19,1st year,Female,College of Arts and Social Sciences,CASS,BS Psychology,BSPsy
+Leonardo,De,2021-3043,20,2nd year,Male,College of Arts and Social Sciences,CASS,BA Filipino Literature,BAFL
+Maricel,Buendia,2020-3044,21,3rd year,Female,College of Arts and Social Sciences,CASS,BS History,BSHis
+Antonio,Salvador,2019-3045,22,4th year,Male,College of Arts and Social Sciences,CASS,BA English Literature,BAEL
+Rosario,Dela Cruz,2018-3046,23,5+ years,Female,College of Arts and Social Sciences,CASS,BS Psychology,BSPsy
+Isidro,Villamor,2023-3047,18,1st year,Male,College of Arts and Social Sciences,CASS,BA Filipino Literature,BAFL
+Celestina,Pascual,2022-3048,19,1st year,Female,College of Arts and Social Sciences,CASS,BS History,BSHis
+Domingo,Yap,2021-3049,20,2nd year,Male,College of Arts and Social Sciences,CASS,BA English Literature,BAEL
+Angela,Del Rosario,2020-3050,21,3rd year,Female,College of Arts and Social Sciences,CASS,BS Psychology,BSPsy
+Vicente,Suarez,2019-3051,22,4th year,Male,College of Arts and Social Sciences,CASS,BA Filipino Literature,BAFL
+Feliciana,Mendoza,2018-3052,23,5+ years,Female,College of Arts and Social Sciences,CASS,BS History,BSHis
+Rogelio,Medina,2023-3053,18,1st year,Male,College of Arts and Social Sciences,CASS,BA English Literature,BAEL
+Carmela,Bautista,2022-3054,19,1st year,Female,College of Arts and Social Sciences,CASS,BS Psychology,BSPsy
+Gilberto,Nolasco,2021-3055,20,2nd year,Male,College of Arts and Social Sciences,CASS,BA Filipino Literature,BAFL
+Perla,Escobar,2020-3056,21,3rd year,Female,College of Arts and Social Sciences,CASS,BS History,BSHis
+Fausto,Jimenez,2019-3057,22,4th year,Male,College of Arts and Social Sciences,CASS,BA English Literature,BAEL
+Dolores,Castro,2018-3058,23,5+ years,Female,College of Arts and Social Sciences,CASS,BS Psychology,BSPsy
+Mariano,Tan,2023-3059,18,1st year,Male,College of Arts and Social Sciences,CASS,BA Filipino Literature,BAFIL
+Clarita,Roxas,2022-3060,19,1st year,Female,College of Arts and Social Sciences,CASS,BS History,BSHis
+Anna,Dela Cruz,2022-1123,19,1st Year,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Carlo,Lopez,2018-2345,23,4th Year,Male,College of Computer Studies,CCS,BS Information Systems,BSIS
+Liza,Martinez,2020-3345,20,1st Year,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Kevin,Ortega,2021-5567,22,2nd Year,Male,College of Computer Studies,CCS,BS Computer Science,BSCS
+Mark,Dizon,2019-6678,23,3rd Year,Male,College of Computer Studies,CCS,BS Computer Science,BSCS
+Teresa,Garcia,2018-7789,24,4th Year,Female,College of Science and Mathematics,CSM,BS Microbiology,BSMicB
+Luis,Cruz,2022-8890,18,1st Year,Male,College of Computer Studies,CCS,BS Information Technology,BSIT
+Anne,Castillo,2020-9901,20,1st Year,Female,College of Computer Studies,CCS,BS Information Systems,BSIS
+Rico,Velasco,2021-1012,21,2nd Year,Male,College of Science and Mathematics,CSM,BS Biology,BSBio
+Bianca,De Leon,2019-1213,22,3rd Year,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Ramon,Soriano,2018-1314,23,4th Year,Male,College of Computer Studies,CCS,BS Information Technology,BSIT
+Pia,Valdez,2022-1415,19,1st Year,Female,College of Computer Studies,CCS,BS Information Systems,BSIS
+John,Evangelista,2020-1516,20,1st Year,Male,College of Computer Studies,CCS,BS Information Technology,BSIT
+Karen,Santiago,2021-1617,21,2nd Year,Female,College of Computer Studies,CCS,BS Computer Science,BSCS
+Miguel,Aquino,2019-1718,22,3rd Year,Male,College of Science and Mathematics,CSM,BS Chemistry,BSChem
+Carla,Santana,2018-1819,23,4th Year,Female,College of Computer Studies,CCS,BS Information Systems,BSIS
+Roberto,Padilla,2022-1920,18,1st Year,Male,College of Computer Studies,CCS,BS Information Technology,BSIT
+Alice,Johnson,2005-1001,30,5+ Years,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Bob,Smith,2010-1002,22,5+ Years,Male,College of Computer Studies,CCS,BS Information Systems,BSIS
+Charlie,Davis,2012-1003,19,5+ Years,Male,College of Computer Studies,CCS,BS Computer Science,BSCS
+Diana,Evans,2013-1004,21,5+ Years,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Ethan,Ford,2014-1005,23,5+ Years,Male,College of Science and Mathematics,CSM,BS Physics,BSPhy
+Allen,Kwisel,2002-2002,19,5+ Years,Male,College of Computer Studies,CCS,BS Computer Science,BSCS
+Dan,Lubiranis,2012-1111,23,5+ Years,Male,College of Computer Studies,CCS,BS Information Technology,BSIT
+Xenon,Plaskett,2023-2001,18,1st Year,Male,College of Computer Studies,CCS,BS Computer Science,BSCS
+Zyphra,Nocturne,2023-2002,19,1st Year,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Vex,Quillan,2022-2003,20,2nd Year,Male,College of Engineering,COE,BS Computer Engineering,BSCpE
+Lyric,Nebula,2021-2004,21,3rd Year,Female,College of Computer Studies,CCS,BS Computer Science,BSCS
+Orion,Starweaver,2020-2005,22,4th Year,Male,College of Computer Studies,CCS,BS Information Systems,BSIS
+Mira,Solstice,2023-2006,18,1st Year,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Ragnar,Thorne,2021-2007,21,2nd Year,Male,College of Computer Studies,CCS,BS Computer Science,BSCS
+Cassia,Evermoon,2020-2008,20,1st Year,Female,College of Computer Studies,CCS,BS Information Systems,BSIS
+Zephyr,Windsong,2022-2009,19,1st Year,Male,College of Computer Studies,CCS,BS Information Technology,BSIT
+Echo,Darkmere,2019-2010,22,3rd Year,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Talon,Draven,2018-2011,23,4th Year,Male,College of Science and Mathematics,CSM,BS Mathematics,BSM
+Selene,Frostbane,2023-2012,18,1st Year,Female,College of Computer Studies,CCS,BS Computer Science,BSCS
+Axel,Stormrider,2020-2013,20,2nd Year,Male,College of Computer Studies,CCS,BS Information Systems,BSIS
+Vera,Nyx,2021-2014,21,3rd Year,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Ezekiel,Shadowbrook,2019-2015,22,3rd Year,Male,College of Computer Studies,CCS,BS Computer Science,BSCS
+Kael,Ironwood,2022-2017,19,1st Year,Male,College of Computer Studies,CCS,BS Information Systems,BSIS
+Rowan,Obsidian,2020-2018,20,2nd Year,Female,College of Computer Studies,CCS,BS Computer Science,BSCS
+Laziel,Fern,2021-2019,21,3rd Year,Male,College of Science and Mathematics,CSM,BS Physics,BSPhy
+Aurora,Hexley,2022-2020,19,1st Year,Female,College of Computer Studies,CCS,BS Information Technology,BSIT
+Dorian,Stormvale,2023-2021,18,1st Year,Male,College of Computer Studies,CCS,BS Information Systems,BSIS
+Isla,Veridian,2022-2022,19,1st Year,Female,College of Engineering,COE,BS Civil Engineering,BSCE
+Elliot,Crimson,2020-2023,20,2nd Year,Male,College of Engineering,COE,BS Mechanical Engineering,BSME
+Julian,Ember,2019-2024,21,3rd Year,Male,College of Arts and Social Sciences,CASS,BA English Literature,BAEL
+Freya,Nightshade,2018-2025,22,4th Year,Female,College of Arts and Social Sciences,CASS,BS Psychology,BSPsy
+Adrian,Sable,2023-2026,18,1st Year,Male,College of Engineering,COE,BS Computer Engineering,BSCE
+Ivy,Stormbourne,2022-2027,19,1st Year,Female,College of Arts and Social Sciences,CASS,BS History,BSHis
+Nathan,Silverwood,2021-2028,20,2nd Year,Male,College of Engineering,COE,BS Petroleum Engineering,BSPetE
+Sienna,Duskwood,2019-2029,21,3rd Year,Female,College of Arts and Social Sciences,CASS,BA Filipino Literature,BAFL
+Callum,Graves,2018-2030,22,4th Year,Male,College of Engineering,COE,BS Electronics Engineering,BSECE
+Luna,Moonstone,2023-2031,18,1st Year,Female,College of Science and Mathematics,CSM,BS Marine Biology,BSMarB
+Victor,Onyx,2022-2032,19,1st Year,Male,College of Arts and Social Sciences,CASS,BA English Literature,BAEL
+Hazel,Frostt,2021-2033,20,2nd Year,Female,College of Science and Mathematics,CSM,BS Physics,BSPhy
+Felix,Ravenshadow,2020-2034,21,3rd Year,Male,College of Engineering,COE,BS Civil Engineering,BSCE
+Mariana,Solace,2019-2035,22,4th Year,Female,College of Science and Mathematics,CSM,BS Marine Biology,BSMarB
+Andrea,Ibesate,2023-1234,20,2nd Year,Female,College of Science and Mathematics,CSM,BS Biology,BSBio
+Thorfin,Vinland,2024-4357,35,1st Year,Male,College of Science and Mathematics,CSM,BS Chemistry,BSChem
+Maria ,Rentuaya,2023-0024,20,2nd Year,Female,College of Science and Mathematics,CSM,BS Microbiology,BSMicB
+Samuel Jr.,Distor,2023-0000,20,2nd Year,Male,College of Science and Mathematics,CSM,BS Microbiology,BSMicB
+Daniel,Gary,2021-0016,23,4th Year,Male,College of Engineering,COE,BS Civil Engineering,BSCE
+Mariel,Mante,2023-1346,20,2nd Year,Female,College of Arts and Social Sciences,Unknown,BA English Literature,BSIT
+,,,,,,College of Medicine,COM,BS Medicine,BSMED
+,,,,,,,,,
+Dave,Jared,2023-0978,20,2nd Year,Male,College of Medicine,Unknown,BS Medicine,
